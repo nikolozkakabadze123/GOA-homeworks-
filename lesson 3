@@ -1,0 +1,73 @@
+name = 'nika'
+last_name = 'kakabadze'
+hobi = 'programing'
+country = 'georgia'
+
+
+print(name)
+print(last_name)
+print(hobi)
+print(country)
+
+
+
+
+# Codes with +
+print(10 + 10)
+print(20 + 30)
+print(100 + 50)
+print(7 + 3)
+print(15 + 25)
+print(40 + 60)
+print(12 + 8)
+print(33 + 17)
+print(90 + 10)
+print(55 + 45)
+
+# Codes with -
+print(50 - 30)
+print(100 - 25)
+print(75 - 40)
+print(15 - 5)
+print(80 - 20)
+print(120 - 70)
+print(44 - 14)
+print(60 - 50)
+print(95 - 35)
+print(33 - 13)
+
+# Codes with *
+print(5 * 4)
+print(10 * 3)
+print(7 * 6)
+print(12 * 2)
+print(8 * 10)
+print(15 * 5)
+print(20 * 4)
+print(9 * 11)
+print(25 * 3)
+print(6 * 9)
+
+# Codes with //
+print(100 // 6)
+print(49 // 7)
+print(80 // 9)
+print(25 // 4)
+print(60 // 7)
+print(35 // 3)
+print(45 // 10)
+print(13 // 3)
+print(99 // 10)
+print(64 // 9)
+
+# Codes with **
+print(2 ** 3)
+print(5 ** 2)
+print(10 ** 3)
+print(4 ** 2)
+print(3 ** 4)
+print(7 ** 2)
+print(6 ** 3)
+print(9 ** 2)
+print(8 ** 2)
+print(11 ** 2)
